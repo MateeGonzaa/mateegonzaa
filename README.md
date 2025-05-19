@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mate</h1>
-<h3 align="center">Future Frontend developer 😛​</h3>
+<h3 align="center">Future developer 😛​</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
