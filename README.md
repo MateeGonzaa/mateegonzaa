@@ -1,74 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mate</h1>
-<h3 align="center">Software developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Mate&fontSize=55&fontAlignY=38&desc=Software%20Developer&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer;Python+%26+TypeScript+%26+JavaScript;Building+web+apps;Learning+something+new+every+day" alt="typing" />
+</p>
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://instagram.com/mategonzaleez" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://discord.gg/mateegonzaa" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mateo-nicolas-gonzalez-094b11388/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://instagram.com/mategonzaleez"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/mateegonzaa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/mateo-nicolas-gonzalez-094b11388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🛠️ Tech stack
 
 **Languages**
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" alt="languages" />
 </p>
 
 **Frontend**
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://unocss.dev/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:unocss.svg" alt="unocss" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="frontend" />
+  <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" alt="UnoCSS" height="48" />
 </p>
 
 **Backend & APIs**
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask&theme=dark" alt="backend" />
 </p>
 
 **Databases**
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" alt="databases" />
 </p>
 
 **DevOps, Deploy & Tools**
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render" alt="render" width="40" height="40"/></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:npm-icon.svg" alt="npm" width="40" height="40"/></a>
-  <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Thunder_Client-5C2D91?style=for-the-badge&logoColor=white" alt="thunder client" height="28"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,npm,figma,linux,arduino&theme=dark" alt="tools" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Thunder_Client-5C2D91?style=for-the-badge&logoColor=white" alt="Thunder Client" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub stats</h3>
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 </p>
+
